@@ -1,6 +1,12 @@
-# timer-app
+# Timer Overlay Desktop App
+An Electron application with React.
 
-An Electron application with React
+A timer application complete with an overlay mode.
+
+Watch on Youtube:
+[![Fractal Tree Generator Demo](https://img.youtube.com/vi/6sMM5tGZUaQ/0.jpg)](https://www.youtube.com/watch?v=6sMM5tGZUaQ)
+
+
 
 ## Recommended IDE Setup
 
