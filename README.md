@@ -5,11 +5,11 @@
 I created this timer-app to help me track down how much time I spend on coding tasks. Being able to use the app while utilizing my entire screen was a priority that's why I opted for creating an overlay mode that makes the app visible but allows me to click through it. Entering and exiting overlay is done with hotkeys.
 
 ### Regular Mode:
-![Timer Interface](preview/timer-interface.jpg)
+![Timer Interface](preview/timer-interface.JPG)
 
 
 ### Overlay Mode
-![Overlay Mode](preview/overlay-mode.jpg)
+![Overlay Mode](preview/overlay-mode.JPG)
 
 
 ## Features: 
@@ -20,8 +20,9 @@ I created this timer-app to help me track down how much time I spend on coding t
 
 <br/>
 
-### Feel free to run the project on your system and have fun with it, I only ask that you give the repo a star ⭐ so others can find it too. 😊
+#### Feel free to clone and run the project on your system! Have fun with it and let me know what you think. Your feedback is valuable in improving the app for everyone.
 
+#### ⭐ If you find the project useful please give it a start so others can find it too! :)
 <br/>
 
 ## Recommended IDE Setup
